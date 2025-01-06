@@ -75,3 +75,8 @@ Error: failed to compile configuration file
 
 Node.js v22.12.0
 ```
+
+## Original Discussion
+
+See fumadocs #1237:
+- https://github.com/fuma-nama/fumadocs/issues/1237
